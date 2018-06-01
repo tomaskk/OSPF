@@ -1,0 +1,7 @@
+C:\Users\Tomas\source\repos\ProtocolSimulation\ProtocolSimulation\bin\Debug\ProtocolSimulation.exe.config
+C:\Users\Tomas\source\repos\ProtocolSimulation\ProtocolSimulation\bin\Debug\ProtocolSimulation.exe
+C:\Users\Tomas\source\repos\ProtocolSimulation\ProtocolSimulation\bin\Debug\ProtocolSimulation.pdb
+C:\Users\Tomas\source\repos\ProtocolSimulation\ProtocolSimulation\obj\Debug\ProtocolSimulation.csprojResolveAssemblyReference.cache
+C:\Users\Tomas\source\repos\ProtocolSimulation\ProtocolSimulation\obj\Debug\ProtocolSimulation.csproj.CoreCompileInputs.cache
+C:\Users\Tomas\source\repos\ProtocolSimulation\ProtocolSimulation\obj\Debug\ProtocolSimulation.exe
+C:\Users\Tomas\source\repos\ProtocolSimulation\ProtocolSimulation\obj\Debug\ProtocolSimulation.pdb
